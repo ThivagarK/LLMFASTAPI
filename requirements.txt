@@ -1,0 +1,11 @@
+# for building API
+fastapi
+# for running the fastpi application
+uvicorn
+# for interfacing with Ollama to use local LLMs
+ollama
+# for loading in an environment variable
+python-dotenv
+# for sending a request when we later test our API
+requests
+streamlit
